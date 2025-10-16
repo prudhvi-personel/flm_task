@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "TechVision AI",
+    "industry": "Artificial Intelligence",
+    "location": "San Francisco, CA",
+    "description": "Leading AI solutions for enterprise automation and machine learning infrastructure.",
+    "employees": "500-1000",
+    "founded": 2018,
+    "logo": "🤖"
+  },
+  {
+    "id": 2,
+    "name": "CloudScale Systems",
+    "industry": "Cloud Computing",
+    "location": "Seattle, WA",
+    "description": "Scalable cloud infrastructure and serverless computing platforms for modern applications.",
+    "employees": "1000-5000",
+    "founded": 2015,
+    "logo": "☁️"
+  },
+  {
+    "id": 3,
+    "name": "FinTech Innovations",
+    "industry": "Financial Technology",
+    "location": "New York, NY",
+    "description": "Revolutionary payment processing and blockchain-based financial services.",
+    "employees": "200-500",
+    "founded": 2019,
+    "logo": "💰"
+  },
+  {
+    "id": 4,
+    "name": "HealthSync Digital",
+    "industry": "Healthcare Technology",
+    "location": "Boston, MA",
+    "description": "Digital health platforms connecting patients with healthcare providers seamlessly.",
+    "employees": "100-200",
+    "founded": 2020,
+    "logo": "🏥"
+  },
+  {
+    "id": 5,
+    "name": "GreenEnergy Solutions",
+    "industry": "Renewable Energy",
+    "location": "Austin, TX",
+    "description": "Sustainable energy solutions and smart grid technology for a greener future.",
+    "employees": "500-1000",
+    "founded": 2016,
+    "logo": "🌱"
+  },
+  {
+    "id": 6,
+    "name": "DataInsight Analytics",
+    "industry": "Data Analytics",
+    "location": "Chicago, IL",
+    "description": "Advanced data analytics and business intelligence tools for data-driven decisions.",
+    "employees": "200-500",
+    "founded": 2017,
+    "logo": "📊"
+  },
+  {
+    "id": 7,
+    "name": "CyberShield Security",
+    "industry": "Cybersecurity",
+    "location": "Washington, DC",
+    "description": "Enterprise-grade cybersecurity solutions and threat intelligence platforms.",
+    "employees": "500-1000",
+    "founded": 2014,
+    "logo": "🔒"
+  },
+  {
+    "id": 8,
+    "name": "EduTech Platform",
+    "industry": "Education Technology",
+    "location": "Denver, CO",
+    "description": "Interactive learning platforms and educational software for modern classrooms.",
+    "employees": "100-200",
+    "founded": 2021,
+    "logo": "📚"
+  },
+  {
+    "id": 9,
+    "name": "SmartHome Connect",
+    "industry": "Internet of Things",
+    "location": "San Jose, CA",
+    "description": "IoT devices and smart home automation systems for connected living.",
+    "employees": "200-500",
+    "founded": 2019,
+    "logo": "🏠"
+  },
+  {
+    "id": 10,
+    "name": "MediaStream Pro",
+    "industry": "Media & Entertainment",
+    "location": "Los Angeles, CA",
+    "description": "Next-generation streaming platform and content delivery network.",
+    "employees": "1000-5000",
+    "founded": 2013,
+    "logo": "🎬"
+  },
+  {
+    "id": 11,
+    "name": "RoboLogistics",
+    "industry": "Logistics",
+    "location": "Atlanta, GA",
+    "description": "Automated warehouse solutions and AI-powered supply chain management.",
+    "employees": "500-1000",
+    "founded": 2018,
+    "logo": "📦"
+  },
+  {
+    "id": 12,
+    "name": "AgriTech Innovations",
+    "industry": "Agriculture Technology",
+    "location": "Phoenix, AZ",
+    "description": "Precision agriculture and sustainable farming technology solutions.",
+    "employees": "100-200",
+    "founded": 2020,
+    "logo": "🌾"
+  }
+]
